@@ -1,0 +1,509 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.29.6/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/Platform/Linux-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.29.6/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.29.6/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/Platform/Linux-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindBoost.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost/BoostConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost/BoostConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_headers/boost_headers-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_headers/boost_headers-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_headers/boost_headers-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_system/boost_system-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_system/boost_system-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_assert/boost_assert-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_assert/boost_assert-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_config/boost_config-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_config/boost_config-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_config/boost_config-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_assert/boost_assert-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_throw_exception/boost_throw_exception-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_throw_exception/boost_throw_exception-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_throw_exception/boost_throw_exception-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_variant2/boost_variant2-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_variant2/boost_variant2-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_mp11/boost_mp11-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_mp11/boost_mp11-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_mp11/boost_mp11-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_variant2/boost_variant2-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_winapi/boost_winapi-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_winapi/boost_winapi-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_predef/boost_predef-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_predef/boost_predef-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_predef/boost_predef-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_winapi/boost_winapi-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_system/boost_system-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_system/boost_system-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/boost_system/boost_system-targets-release.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindCURL.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/curl/CURLConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/curl/CURLConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindOpenSSL.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindZLIB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/curl/CURLTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/curl/CURLTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/curl/CURLTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/nlohmann_json/nlohmann_jsonConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/nlohmann_json/nlohmann_jsonConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/nlohmann_json/nlohmann_jsonTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/cpr/cprConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/cpr/cprConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindCURL.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/curl/CURLConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/curl/CURLConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/curl/CURLTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/cpr/cprTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/cpr/cprTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/respecter8/vcpkg/installed/x64-linux/share/cpr/cprTargets-release.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/respecter8/CLionProjects/untitled/cmake-build-debug",
+		"source" : "/home/respecter8/CLionProjects/untitled"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
